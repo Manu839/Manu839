@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Manu Sai</h1>
 <h3 align="center">Future🚀 software developer👨‍💻 in training🏋️‍♂️.</h3>
 
-<img align="right" alt="coding" src="https://media0.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif">
+<img align="right" width="400" alt="coding" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 🌱 I’m currently learning **FROENT-END AND BACKEND TOOLS**
+- 🌱 I’m currently learning **FRONT-END AND BACKEND TOOLS**
 
 - 💬 Ask me about **REACT JS**
 
