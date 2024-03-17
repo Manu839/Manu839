@@ -14,10 +14,16 @@
 
 <h3 align="left">🤝🤝Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/manu sai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manu sai" height="30" width="40" /></a>
+<a href="https://codepen.io/manusai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="manusai" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/manu sai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manu sai" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/manu sai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="manu sai" height="30" width="40" /></a>
+<a href="https://codesandbox.com/manusai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="manusai" height="30" width="40" /></a>
+<a href="https://kaggle.com/manusai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="manusai" height="30" width="40" /></a>
+<a href="https://fb.com/manu sai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="manu sai" height="30" width="40" /></a>
 <a href="https://instagram.com/manu.sai.2468" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manu.sai.2468" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/manu sai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="manu sai" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/2003manusai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="2003manusai" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/manusai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="manusai" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">🌐🌐Languages and Tools:</h3><br>
