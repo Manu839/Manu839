@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **2003MANUSAI@GMAIL.COM**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1cmO8mGQ1CrKQUT4I3XZkisREoFOd5UjU/view?usp=sharing](https://drive.google.com/file/d/1cmO8mGQ1CrKQUT4I3XZkisREoFOd5UjU/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ZwggiQVzZCK3qtmU6FiwNR5DY1eIAwbz/view?usp=sharing](https://drive.google.com/file/d/1ZwggiQVzZCK3qtmU6FiwNR5DY1eIAwbz/view?usp=sharing)
 
 <h3 align="left">🤝🤝Connect with me:</h3>
 <p align="left">
